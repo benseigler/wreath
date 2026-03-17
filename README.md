@@ -2,8 +2,8 @@
 A SPSC ring buffer library with multi-channel
 buffers and capabilities to retain readable data.
 
-![Crates.io Version](https://img.shields.io/crates/v/wreath)
-![docs.rs](https://img.shields.io/docsrs/wreath)
+[![Crates.io Version](https://img.shields.io/crates/v/wreath)](https://crates.io/crates/wreath)
+[![docs.rs](https://img.shields.io/docsrs/wreath)](https://docs.rs/wreath/0.1.0/wreath/)
 
 ## Development Status
 wreath is early in development.
