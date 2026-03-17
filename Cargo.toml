@@ -1,0 +1,12 @@
+[package]
+name = "wreath"
+version = "0.1.0"
+edition = "2024"
+description = "A SPSC ring buffer library with multi-channel buffers and capabilities to retain readable data."
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/benseigler/wreath.git"
+authors = ["Ben Seigler"]
+
+[dependencies]
+crossbeam-utils = "0.8"
